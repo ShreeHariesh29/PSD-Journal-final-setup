@@ -1,0 +1,23 @@
+.active{
+    color:'red';
+    background-color: black;
+}
+.Icons{
+    cursor: pointer;
+}
+.Icons:hover{
+    transform: scale(1.3, 1.3);
+}
+.page:hover{
+    transform: scale(1.3, 1.3);
+}
+.navbar{
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    background-color: white;
+}
+.navcontainer{
+    position: fixed;
+    background-color: white;
+}

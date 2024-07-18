@@ -1,0 +1,13 @@
+*{
+    color: black;
+}
+.footer{
+    background-image: url('./footimg/footer3.png');
+    background-size:auto;
+    background-position: center;
+    background-size: cover;
+    /* background: transparent; */
+    /* backdrop-filter: blur(30px);
+    opacity: 0.1; */
+}
+

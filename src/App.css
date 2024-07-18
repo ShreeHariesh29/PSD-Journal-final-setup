@@ -1,0 +1,18 @@
+.active{
+    background-color: black;
+    color:'white';
+}
+*{
+    font-family: 'Poppins', sans-serif;
+font-family: 'REM', sans-serif;
+}
+
+p{
+font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/* .App{
+    padding-top: 80px;
+} */
